@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Higher-Order-Components-Example/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Higher-Order-Components-Example/static/js/main.211d8857.chunk.js",
+    "main.js.map": "/Higher-Order-Components-Example/static/js/main.211d8857.chunk.js.map",
+    "runtime-main.js": "/Higher-Order-Components-Example/static/js/runtime-main.71a980f8.js",
+    "runtime-main.js.map": "/Higher-Order-Components-Example/static/js/runtime-main.71a980f8.js.map",
+    "static/js/2.a8ad6292.chunk.js": "/Higher-Order-Components-Example/static/js/2.a8ad6292.chunk.js",
+    "static/js/2.a8ad6292.chunk.js.map": "/Higher-Order-Components-Example/static/js/2.a8ad6292.chunk.js.map",
+    "index.html": "/Higher-Order-Components-Example/index.html",
+    "precache-manifest.376ec050721f9105436b424f9f03521e.js": "/Higher-Order-Components-Example/precache-manifest.376ec050721f9105436b424f9f03521e.js",
+    "service-worker.js": "/Higher-Order-Components-Example/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Higher-Order-Components-Example/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71a980f8.js",
+    "static/js/2.a8ad6292.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.211d8857.chunk.js"
+  ]
+}
